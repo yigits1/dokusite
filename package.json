@@ -1,5 +1,5 @@
 {
-  "name": "dokusite",
+  "name": "quick-next-app",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
